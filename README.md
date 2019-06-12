@@ -6,9 +6,9 @@ Apenas para aprendizado da nova versão do react-redux, foi com base na Rocketse
 
 ### Quais Plus?
 
-⋅⋅* Tem um campo para voce digitar o titulo do curso;
-⋅⋅* Salva no localstorage com redux-persist
-⋅⋅\* É um pouco mais organizado o os arquivos :D `sei que da para organizar mais`
+- Tem um campo para voce digitar o titulo do curso;
+- Salva no localstorage com redux-persist
+- É um pouco mais organizado o os arquivos :D `sei que da para organizar mais`
 
 ## O que vou ver aqui?
 
