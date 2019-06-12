@@ -1,4 +1,18 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Um repositorio simples usando [Create React App](https://github.com/facebook/create-react-app).
+
+## Porque disto?
+
+Apenas para aprendizado da nova versão do react-redux
+
+## O que vou ver aqui?
+
+Voce vai ver um codigo básico de como usar o react-redux-hooks
+
+## Como usar?
+
+clone ou faça o download de o comando `yarn add / npm install` e depois de o comando `yarn start / npm start`;
+
+<!-- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -65,4 +79,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 ### `npm run build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify -->
