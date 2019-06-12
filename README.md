@@ -4,7 +4,7 @@ Um repositorio simples usando [Create React App](https://github.com/facebook/cre
 
 Apenas para aprendizado da nova versão do react-redux, foi com base na Rocketseat porem com alguns plus.
 
-### Quais Plus?
+## Quais Plus?
 
 - Tem um campo para voce digitar o titulo do curso;
 - Salva no localstorage com redux-persist
